@@ -1,1 +1,1 @@
-final sum: 1.250000
+final sum: 1.634984

@@ -66,7 +66,7 @@ int main(int argc, char **argv)
         
         ofstream f_output;
         f_output.open(argv[2]);
-        f_output<< "final sum: "<<fixed<<setprecision(6)<<final_sum << "\n";
+        f_output<<fixed<<setprecision(6)<<final_sum << "\n";
         f_output.close();
     }
     double elapsedTime = MPI_Wtime() - tbeg;
