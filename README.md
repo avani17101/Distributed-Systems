@@ -12,6 +12,6 @@ Done as part of Distributed Systems course assignments(spring 2021) at IIIT Hyde
 * Built in erlang
 
 
-### A2: rpc
-* Remote Procedure calls
+### A2: Remote Method Invocation
+* Server client demonstrating Remote Method Invocation(RMI) calls
 * Built in Python3 using pyro4 framework
